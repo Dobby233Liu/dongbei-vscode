@@ -14,6 +14,4 @@
 
 ## 版本日志
 
-### 0.0.1
-
-能用辣！
+参见 [CHANGELOG.md](CHANGELOG.md)
